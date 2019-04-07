@@ -255,4 +255,4 @@ And we need to do the same for the EDIT movie form, e.g. `/templates/admin/editM
     </form>
 ```
 
-Notice how as we loop through all the `$categories` if the current ID matches the `categoryId` of the `$movie` object then we set that drp-down menu option to `selected` in our 'sticky' (populated) edit form.
+Notice how as we loop through all the `$categories` if the current ID matches the `categoryId` of the `$movie` object then we set that drop-down menu option to `selected` in our 'sticky' (populated) edit form.
